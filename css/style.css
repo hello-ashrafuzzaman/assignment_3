@@ -1,9 +1,5 @@
 /* custom css start  */
 
-.btn_color{
-    background-color:  ;
-}
-
 .hc_text{
     font-size: 30px;
     font-weight: bold ;
@@ -22,5 +18,12 @@
 .reg_button{
     margin-left: 100px;
 
+}
+
+a{
+    text-decoration: none;
+    color: #EB5353;
+    font-size: 30px;
+    padding-right: 5px;
 }
 
